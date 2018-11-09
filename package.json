@@ -2,6 +2,7 @@
   "name": "react-hooks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lucifier129.github.io/react-hooks-demo/build/",
   "dependencies": {
     "react": "^16.7.0-alpha.0",
     "react-dom": "^16.7.0-alpha.0",
