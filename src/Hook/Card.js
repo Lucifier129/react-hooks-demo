@@ -31,7 +31,7 @@ export default function Card({ data }) {
 			let positionX = mouseX - originX
 			let positionY = mouseY - originY
 			let x = Math.min(positionX / totalX, 1) * range
-			let y = Math.min(positionY / totalY, 1) * range
+			let y = -Math.min(positionY / totalY, 1) * range
 
 			setXY([x, y])
 		}
