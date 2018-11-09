@@ -176,16 +176,16 @@ h3, .type__input {
   border-radius: 20px;
   height: 30px;
   text-decoration: none;
-  padding-right: 10px;
-  justify-content: space-between;
   font-weight: 600;
-  display: flex;
-  align-items: center;
   color: #fff;
-  font-size: 14px;
-  width: 74px;
-  opacity: 0.4;
+  font-size: 18px;
+  width: 100px;
+  opacity: 1;
+  text-align: center;
+  line-height: 30px;
+  user-select: none;
 }
+
 .twitter__link:hover {
   opacity: 1;
 }
